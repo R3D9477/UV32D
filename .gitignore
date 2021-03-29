@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+!.gitignore
+!.gitattributes
+.*
+*.tmp
+Build
+Binaries
+Saved
+Intermediate
+DerivedDataCache
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditorSettings.ini
+Out
